@@ -1,57 +1,40 @@
 ---
 title: "Week 1 Worklog"
-date: 2024-01-01
+date: 2026-08-08
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
+## Week 1 Objectives:
 
-### Week 1 Objectives:
+- Understand the fundamental concepts of Amazon Web Services (AWS) and cloud computing.
+- Learn how to create and configure an AWS account.
+- Understand AWS pricing models and cloud cost management.
+- Learn how to use AWS Budgets to monitor and control cloud spending.
+- Become familiar with AWS Support and its support plans.
+- Explore the basic AWS services required for deploying the Phone Store Web Application.
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+## Tasks to be carried out this week:
 
-### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| Day   | Task                                                                                                                                                                                                                                                    | Start Date | Completion Date | Reference Material                                    |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------------------------- |
+| **1** | Introduction to Cloud Computing and AWS<br>Learn the benefits of cloud computing<br>Explore the AWS CloudJourney learning roadmap                                                                                                                       | 08/08/2026 | 08/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **2** | Learn how to create an AWS account<br>Understand the AWS account structure<br>Explore the AWS Management Console                                                                                                                                        | 09/08/2026 | 09/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **3** | Learn AWS pricing fundamentals<br>Understand AWS Free Tier and service pricing<br>Explore cost estimation and billing concepts                                                                                                                          | 10/08/2026 | 10/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **4** | Learn AWS Budgets fundamentals<br>Create a monthly cost budget<br>Configure budget thresholds and spending alerts<br>Understand how to monitor AWS costs                                                                                                | 11/08/2026 | 11/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **5** | Explore AWS Support<br>Learn different AWS Support plans<br>Understand how to access AWS technical support<br>Explore AWS documentation and support resources                                                                                           | 12/08/2026 | 12/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **6** | Explore the AWS Management Console<br>Identify AWS services required for the Phone Store project<br>Learn the basic purposes of EC2, S3, RDS and VPC<br>Review the proposed AWS deployment architecture                                                 | 13/08/2026 | 13/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **7** | **Practice:**<br>Review AWS account configuration<br>Check billing and budget settings<br>Explore the AWS service dashboard<br>Review the deployment requirements of the Phone Store Web Application<br>Summarize the knowledge learned during the week | 14/08/2026 | 14/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
 
+## Week 1 Achievements:
 
-### Week 1 Achievements:
-
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+- Understood the fundamental concepts and benefits of Cloud Computing and AWS.
+- Successfully created and explored an AWS account.
+- Became familiar with the AWS Management Console.
+- Learned the basic concepts of AWS pricing, billing and cost management.
+- Studied AWS Budgets and its role in monitoring cloud spending.
+- Explored AWS Support plans and technical support resources.
+- Identified the main AWS services required for the Phone Store Web Application.
+- Established an initial understanding of the AWS deployment architecture.
+- Prepared the foundation for learning AWS infrastructure and deploying the project to the cloud.

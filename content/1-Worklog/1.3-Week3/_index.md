@@ -1,57 +1,41 @@
 ---
 title: "Week 3 Worklog"
-date: 2024-01-01
-weight: 1
+date: 2026-08-22
+weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
+## Week 3 Objectives:
 
-### Week 3 Objectives:
+- Understand the fundamental concepts of Amazon Virtual Private Cloud (VPC).
+- Learn how to create and configure a VPC in AWS.
+- Understand the purposes of Public Subnets and Private Subnets.
+- Learn how Internet Gateways and Route Tables control network traffic.
+- Understand the differences between Security Groups and Network ACLs.
+- Learn basic AWS networking concepts through practical exercises.
+- Design a basic network architecture for deploying the Phone Store Web Application.
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+## Tasks to be carried out this week:
 
-### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| Day   | Task                                                                                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                                    |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------------------------- |
+| **1** | - Introduction to Amazon VPC<br>- Understand VPC concepts and purposes<br>- Learn CIDR blocks and IP addressing<br>- Explore the default VPC in AWS                                                                                                                    | 22/08/2026 | 22/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **2** | - Learn how to create an Amazon VPC<br>- Configure VPC IPv4 CIDR blocks<br>- Understand the relationship between VPCs and Subnets<br>- Explore VPC configuration settings                                                                                              | 23/08/2026 | 23/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **3** | - Learn Public Subnets and Private Subnets<br>- Understand subnet IP address ranges<br>- Explore subnet placement across Availability Zones<br>- Identify suitable subnet types for application resources                                                              | 24/08/2026 | 24/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **4** | - Learn Internet Gateway (IGW)<br>- Understand Route Tables and routing rules<br>- Associate Route Tables with Subnets<br>- Understand how resources access the Internet                                                                                               | 25/08/2026 | 25/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **5** | - Learn Security Groups and Network ACLs<br>- Understand inbound and outbound rules<br>- Compare Security Groups and Network ACLs<br>- Study basic network security practices                                                                                          | 26/08/2026 | 26/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **6** | - Explore AWS Networking Workshop<br>- Study basic VPC network architecture<br>- Understand network traffic flow between subnets<br>- Design a network architecture for EC2 and RDS deployment                                                                         | 27/08/2026 | 27/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
+| **7** | **Practice:**<br>- Create a custom VPC<br>- Create Public and Private Subnets<br>- Configure an Internet Gateway and Route Tables<br>- Configure Security Groups<br>- Test basic network connectivity<br>- Review the network architecture for the Phone Store project | 28/08/2026 | 28/08/2026      | [AWS CloudJourney](https://cloudjourney.awsfcaj.com/) |
 
+## Week 3 Achievements:
 
-### Week 3 Achievements:
-
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+- Understood the fundamental concepts and purposes of Amazon VPC.
+- Learned how to configure VPC networks and IPv4 CIDR blocks.
+- Understood the differences between Public and Private Subnets.
+- Learned how Internet Gateways and Route Tables manage network traffic.
+- Studied Security Groups and Network ACLs for controlling network access.
+- Became familiar with basic AWS networking architecture.
+- Practiced configuring VPC networking components.
+- Designed an initial network architecture for deploying EC2 and RDS resources.
+- Established the networking foundation for deploying the Phone Store Web Application on AWS.
