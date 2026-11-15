@@ -1,0 +1,16 @@
+{{- $src := .Destination -}} {{- $base := urls.Parse site.BaseURL -}} {{- $path
+:= $src -}} {{- if strings.HasPrefix $src "/images/" -}} {{- $path = printf
+"%s%s" (strings.TrimSuffix "/" site.BaseURL) $src -}} {{- end -}}
+
+<img
+  src="{{ $path | safeURL }}"
+  alt="{{ .PlainText }}"
+  loading="lazy"
+  {{
+  with
+  .Title
+  }}title="{{ . }}"
+  {{
+  end
+  }}
+/>
