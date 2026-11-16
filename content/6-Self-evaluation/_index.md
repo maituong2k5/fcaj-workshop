@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **Amazon Web Services Vietnam Co., Ltd.** from **August 8 to November 19**, I had the opportunity to gain practical experience and apply my academic knowledge in a real-world working environment.
+During my internship at **Amazon Web Services Vietnam** from **August 8 to November 19**, I had the opportunity to gain practical experience and apply my academic knowledge in a real-world working environment.
 
 I participated in **deploying a mobile phone e-commerce web application on the AWS cloud computing platform**, through which I improved my skills in **AWS service configuration, application deployment, system testing, and technical documentation**.
 

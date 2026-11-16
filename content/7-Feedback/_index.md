@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCAJ team improve any shortcomings based on the following aspects:
-
 ### Overall Evaluation
 
 **1. Working Environment**  
@@ -27,5 +25,3 @@ The company culture is very positive: everyone respects each other, works seriou
 
 **6. Internship Policies / Benefits**  
 The company offers internship support and flexible working hours when needed. Additionally, the opportunity to participate in internal training is a significant advantage.
-
----
