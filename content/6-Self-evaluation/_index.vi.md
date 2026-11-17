@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong thời gian thực tập tại **Công ty TNHH Amazon Web Services Việt Nam** từ ngày **08/08 đến 14/11**, em đã có cơ hội tích lũy kinh nghiệm thực tế và vận dụng kiến thức đã học vào môi trường làm việc thực tế.
+Trong thời gian thực tập tại **Công ty TNHH Amazon Web Services Việt Nam** từ ngày **08/08 đến 07/11**, em đã có cơ hội tích lũy kinh nghiệm thực tế và vận dụng kiến thức đã học vào môi trường làm việc thực tế.
 
 Em đã tham gia **triển khai một ứng dụng thương mại điện tử điện thoại di động trên nền tảng điện toán đám mây AWS**, qua đó cải thiện các kỹ năng về **cấu hình dịch vụ AWS, triển khai ứng dụng, kiểm thử hệ thống và viết tài liệu kỹ thuật**.
 
