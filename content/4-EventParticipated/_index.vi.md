@@ -1,29 +1,27 @@
 ---
-title: "Các events đã tham gia"
-date: 2024-01-01
+title: "Các sự kiện đã tham gia"
+date: 2026-11-22
 weight: 4
 chapter: false
-pre: " <b> 4. </b> "
+pre: "<b>4. </b>"
 ---
 
-Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
+Trong quá trình thực tập, em đã có cơ hội tham gia sự kiện AWS Community Day Vietnam 2026. Đây là một trải nghiệm ý nghĩa, giúp tôi tiếp cận những kiến thức thực tế về điện toán đám mây, trí tuệ nhân tạo (AI), bảo mật hệ thống và tối ưu hóa chi phí trên nền tảng Amazon Web Services (AWS).
 
-### [Event 1](4.1-Event1/)
+Bên cạnh việc tìm hiểu các xu hướng công nghệ mới, sự kiện còn tạo cơ hội giao lưu, học hỏi kinh nghiệm từ những người làm việc trong lĩnh vực Cloud Computing, DevOps và AI, qua đó mở rộng hiểu biết và định hướng phát triển kỹ năng chuyên môn.
 
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
+### [4.1. AWS Community Day Vietnam 2026](4.1-event1/)
 
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
+&emsp;**Tên sự kiện:** AWS Community Day Vietnam 2026
 
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+&emsp;**Thời gian:** 08:30–16:35, ngày 21/11/2026 (Thứ Bảy)
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự
+&emsp;**Địa điểm:** Hội trường A1, Trường Đại học Hà Nội, Km9 đường Nguyễn Trãi, phường Đại Mỗ, Hà Nội
 
-### [Event 2](4.2-Event2/)
-
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
-
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
-
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+&emsp;**Đơn vị tổ chức:** Cộng đồng AWS Việt Nam
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự
+
+&emsp;**Website:** [AWS Community Day Vietnam 2026](https://awscommunitydayvn.com/)
+
+---

@@ -1,31 +1,27 @@
 ---
 title: "Events Participated"
-date: 2024-01-01
+date: 2026-11-22
 weight: 4
 chapter: false
-pre: " <b> 4. </b> "
+pre: "<b>4. </b>"
 ---
 
-During my internship, I participated in two events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+During my internship, I had the opportunity to attend AWS Community Day Vietnam 2026. This was a meaningful experience that allowed me to explore practical knowledge about cloud computing, artificial intelligence (AI), system security, and cost optimization on Amazon Web Services (AWS).
 
-### [Event 1](4.1-Event1/)
+In addition to learning about emerging technology trends, the event provided opportunities to connect with professionals in Cloud Computing, DevOps, and AI, gain insights from their experiences, and further develop my technical knowledge and career interests.
 
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop
+### [4.1. AWS Community Day Vietnam 2026](4.1-event1/)
 
-&emsp;**Date & Time:** 09:00, August 13, 2025
+&emsp;**Event Name:** AWS Community Day Vietnam 2026
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+&emsp;**Date & Time:** 08:30–16:35, November 21, 2026 (Saturday)
+
+&emsp;**Location:** Hall A1, Hanoi University, Km9 Nguyen Trai Street, Dai Mo Ward, Hanoi, Vietnam
+
+&emsp;**Organizer:** AWS Vietnam Community
 
 &emsp;**Role:** Attendee
 
+&emsp;**Website:** [AWS Community Day Vietnam 2026](https://awscommunitydayvn.com/)
+
 ---
-
-### [Event 2](4.2-Event2/)
-
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop
-
-&emsp;**Date & Time:** 09:00, August 13, 2025
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
-
-&emsp;**Role:** Attendee
