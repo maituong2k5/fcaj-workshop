@@ -31,7 +31,7 @@ pre: "<b>4.1. </b>"
 Speakers from the eight Tech Talk sessions attended:
 
 - **Nam Lã and Quân Nguyễn** – Amazon Quick Deep Dive.
-- **Phan Tuấn Anh** – Làn sóng chuyển dịch trong thời đại AI.
+- **Phan Tuấn Anh** – The Wave of Transformation in the AI Era.
 - **Kha Văn and Yến Trịnh** – Securing Workload Identity Across Hybrid and Multi-Cloud with AWS IAM Roles Anywhere.
 - **Dũng Lương** – Observability on AWS: Understanding Your Application.
 - **Tuấn Vũ** – Datadog – Observability with AWS.
@@ -59,7 +59,7 @@ Relevant technical concepts:
 
 **Key Learning:** Understanding how AI-powered platforms can help organizations access information, analyze data, and improve operational efficiency.
 
-#### 2. Track 2B: Làn Sóng Chuyển Dịch Trong Thời Đại AI
+#### 2. Track 2B: The Wave of Transformation in the AI Era
 
 - **Time:** 10:10–10:30.
 - **Speaker:** Phan Tuấn Anh.
